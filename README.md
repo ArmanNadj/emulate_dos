@@ -2,7 +2,7 @@
 
 * emulate_dos is a project that was made in order for me to learn
 how DOS (Denial of Service) attacks work and to attempt to SAFELY emulate one, in a controlled environment.
-* I do NOT perform malicious hacks.
+* I do NOT perform hacking, except for educational purposes.
 * I do NOT condone the act of malicious hacking.
 * This project is for educational purposes ONLY.
 * I take NO responsibility for anything that occurs from
